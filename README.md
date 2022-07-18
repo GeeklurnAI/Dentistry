@@ -1,7 +1,7 @@
 # USING DENTAL METRICS TO PREDICT 
 ### 
 
-![](assets/1st page.JPG)
+![]!(1st page.JPG)
 
 # PROJECT DETAIL:
 

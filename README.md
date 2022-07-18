@@ -1,7 +1,7 @@
 # USING DENTAL METRICS TO PREDICT 
 ### 
 
-![](assets/1st page.jpg)
+![](assets/1st page.JPG)
 
 # PROJECT DETAIL:
 
@@ -39,7 +39,7 @@
 ### ARCHITECTURE 
 ##  
 
-![](assets/arch.jpg)
+![](assets/arch.JPG)
 
 
 

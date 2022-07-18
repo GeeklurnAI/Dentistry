@@ -1,6 +1,6 @@
 # USING DENTAL METRICS TO PREDICT 
 
-![](1st page.JPG)
+![](assets/one.JPG)
 
 # PROJECT DETAIL:
 
